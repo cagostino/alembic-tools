@@ -11,13 +11,13 @@ A CLI tool for managing SQLAlchemy databases and applying Alembic migrations. Th
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/cagostino/my_alembic_cli.git
+    git clone https://github.com/cagostino/alembic-tools.git
     ```
 
 2. Navigate into the cloned directory:
 
     ```bash
-    cd my_alembic_cli
+    cd alembic-tools
     ```
 
 3. Install the package:
