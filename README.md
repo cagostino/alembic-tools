@@ -48,10 +48,3 @@ To apply database migrations:
 my_alembic_cli --db_name your_db_name --models your_models_module migrate
 ```
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
----
-
-Feel free to adjust the content as needed. Would you like help with anything else?
