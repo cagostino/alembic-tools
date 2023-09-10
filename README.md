@@ -37,7 +37,7 @@ After installation, the CLI tool will be available as `my_alembic_cli`. You can 
 To initialize a new database:
 
 ```bash
-my_alembic_cli --db_name your_db_name --models your_models_module init
+alembic_cli --db_name your_db_name --models your_models_module init
 ```
 
 ### Apply Migrations
@@ -45,6 +45,6 @@ my_alembic_cli --db_name your_db_name --models your_models_module init
 To apply database migrations:
 
 ```bash
-my_alembic_cli --db_name your_db_name --models your_models_module migrate
+alembic_cli --db_name your_db_name --models your_models_module migrate
 ```
 
