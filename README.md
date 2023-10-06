@@ -1,7 +1,3 @@
-Certainly! Below is the README content that you can use for your GitHub repository:
-
----
-
 # My Alembic CLI
 
 A CLI tool for managing SQLAlchemy databases and applying Alembic migrations. This tool aims to generalize database initialization and migration tasks so that you can use it across multiple projects.
