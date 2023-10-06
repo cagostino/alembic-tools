@@ -30,7 +30,7 @@ A CLI tool for managing SQLAlchemy databases and applying Alembic migrations. Th
 
 ## Usage
 
-After installation, the CLI tool will be available as `my_alembic_cli`. You can run the following commands:
+After installation, the CLI tool will be available as `alembic_cli`. You can run the following commands:
 
 ### Initialize Database
 
